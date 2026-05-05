@@ -1,10 +1,14 @@
 /*====================================================================
- * DDL Scripts: create the Bronze layer tables
+ * Stored Procedure : Load data into the Bronze layer tables (source -> Bronze)
  * 
  * ====================================================================
  * Srcipt Purpose:
- * 		THis script creates tables in the bronze schema, droping existing tables if
- * 		they already exist.
+ * 		This stored procedure loads data into the 'bronze' schema from external csv files.
+ * 		it performs the following:
+ * 			- Truncates the bronze layer tables before loading data
+ * 			- Calculates how the entire loading process takes
+ * 	USE
+ * 	- CALL bronze.load_bronze();
  * ======================================================================
  * */
 
