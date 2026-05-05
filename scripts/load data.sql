@@ -1,3 +1,13 @@
+/*====================================================================
+ * DDL Scripts: create the Bronze layer tables
+ * 
+ * ====================================================================
+ * Srcipt Purpose:
+ * 		THis script creates tables in the bronze schema, droping existing tables if
+ * 		they already exist.
+ * ======================================================================
+ * */
+
 CREATE OR REPLACE PROCEDURE bronze.load_bronze()
 LANGUAGE plpgsql
 AS $$
