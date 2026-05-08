@@ -70,6 +70,5 @@ on
 left join gold.dim_customers cs
 on
 	sd.sls_cust_id = cs.customer_id;
-	
-	
+
 
