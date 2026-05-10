@@ -123,7 +123,7 @@
         <mxCell id="5Ikj3yw2RMTrAygDdCQx-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;" value="Transactional Records about sales &amp;amp; orders" vertex="1">
           <mxGeometry height="30" width="130" x="70" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="opVysiKwI0uR62EAyScF-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Data integration Digram&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="opVysiKwI0uR62EAyScF-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Data integration Diagram&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="320" x="40" y="150" as="geometry" />
         </mxCell>
       </root>
